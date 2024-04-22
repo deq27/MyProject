@@ -37,7 +37,8 @@ a{ text-decoration: none;}
    
    .submenu>li{
        line-height: 50px;  
-       background-color: rgba(52, 200, 133, 0.289);
+       background-color: rgba(136, 219, 244, 0.289);
+       border-bottom: 1px solid;
    }
    
    .submenu{
@@ -46,12 +47,12 @@ a{ text-decoration: none;}
    }
    
    .menu>li:hover{
-        background-color: #94fbff4a;  
+        background-color: hsla(180, 6%, 87%, 0.417);  
         transition-duration: 0.5s;
    }
 
    .submenu>li:hover{
-        background-color: rgba(186, 190, 189, 0.4);
+        background-color: rgba(135, 212, 240, 0.52);
    }
    
    
